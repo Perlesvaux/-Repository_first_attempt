@@ -2,6 +2,7 @@ import tkinter as tk
 import zipfile
 import os
 
+eraseme_later = 0
 
 #B.A.C.K.E.N.D
 #This app: zips each SUB-DIRECTORY individually.
