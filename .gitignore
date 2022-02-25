@@ -1,2 +1,8 @@
 ignorethisfolder/
 porn.txt
+
+#Quit from text display   → Q
+#Remove from repo only    → git rm -r --cached ******
+#creating new branch      → git checkout -b *******
+#Toggle between branches  → git checkout ******** 
+#Clear screen             → ctrl + L
